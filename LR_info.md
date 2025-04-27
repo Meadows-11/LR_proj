@@ -1,0 +1,6 @@
+This project is based upon an insurance dataset which has following features: 
+Age, Sex, Bmi, Children, Smoker, Claim_Amount, Past_Consultations, Num_of_Steps, Hospital_Expenditure, Number_of_Past_Hospitalizations, Anual_Salary, Region, Charges.
+Performed Feature Engineering by using Exploratory Data Analysis and checked for null values and dropped them, checked for outliers via boxplot and handled them using Interquartile Range. 
+Checked if features had correlation by heatmap and removed those features showing high correlation. 
+Label Encoding the column headers, performed Model Building.
+R2 score Metric used.
